@@ -10,6 +10,8 @@ public class App1 {
         int a, b, suma;
         a =2;
         b= 3;
+        suma = a+b;
+        System.out.println("la suma es " + suma);
         
     }
     
