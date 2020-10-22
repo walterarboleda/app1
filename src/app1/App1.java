@@ -7,11 +7,13 @@ public class App1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int a, b, suma;
+        int a, b, suma,mul;
         a =2;
         b= 3;
         suma = a+b;
+        mul=a*b
         System.out.println("la suma es " + suma);
+        System.out.println("la multiplicacion es " + mul);
         
     }
     
