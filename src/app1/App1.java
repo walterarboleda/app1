@@ -11,7 +11,7 @@ public class App1 {
         a =2;
         b= 3;
         suma = a+b;
-        mul=a*b
+        mul=a*b; //mejora realizada 
         System.out.println("la suma es " + suma);
         System.out.println("la multiplicacion es " + mul);
         
